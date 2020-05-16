@@ -1,5 +1,5 @@
 {
-  "name": "reason-react-todo",
+  "name": "reason-react-starter",
   "version": "0.1.0",
   "scripts": {
     "build": "bsb -make-world",

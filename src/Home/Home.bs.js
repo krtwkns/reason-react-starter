@@ -5,7 +5,7 @@ var React = require("react");
 require("./style.scss");
 
 function Home(Props) {
-  return React.createElement("main", undefined, "Hello World  ");
+  return React.createElement("main", undefined, "Hello Reason React");
 }
 
 var make = Home;

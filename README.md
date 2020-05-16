@@ -1,3 +1,3 @@
-# Reason React Todo
+# Reason React Starter
 
-    Todo list build with Love & ReasonReact
+    // Todo : Create description of this repository
